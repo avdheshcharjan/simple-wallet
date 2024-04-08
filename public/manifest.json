@@ -1,0 +1,17 @@
+{
+  "short_name": "Simple Wallet",
+  "name": "Simple Wallet",
+  "description": "An easy-to-use crypto wallet on Ethereum Sepolia Testnet.",
+  "manifest_version": 3,
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Simple Wallet"
+  },
+  "permissions": [],
+  "icons": {
+    "16": "walletLogo512.png",
+    "48": "walletLogo512.png",
+    "128": "walletLogo512.png"
+  }
+}
